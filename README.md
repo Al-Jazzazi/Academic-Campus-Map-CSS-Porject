@@ -24,6 +24,7 @@ This project is an interactive 2D map of our academic campus, inspired by Stepan
 
 You can see a live demo of the map [here](https://kings-city-1-3620950.codehs.me/index.html).
 
+
 ## Installation
 
 To view the Interactive Campus Map locally, follow these steps:
@@ -51,6 +52,3 @@ This project was inspired by [Stepan Suvorov's work on CodePen](https://codepen.
 
 This project was developed for the Topics in Programming class during high school under Ms. Ulfat, in collaboration with Layann Wardah.
 
----
-
-Replace `yourusername` with your actual GitHub username and update any other placeholder text to match your project specifics. This README format provides a clear and informative introduction to your project, making it easier for others to understand and use your interactive campus map.
